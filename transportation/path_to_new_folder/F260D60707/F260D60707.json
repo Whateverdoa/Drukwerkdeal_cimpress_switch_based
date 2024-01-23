@@ -1,0 +1,36 @@
+{
+    "Description": "F260D60707",
+    "ReferenceAtCustomer": "M7107H7DB8",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.83,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Daal",
+    "Street": "Hofgeest 61",
+    "Country": "NL",
+    "PostalCode": "1102EC",
+    "City": "Amsterdam",
+    "Contacts": [
+        {
+            "LastName": "Daal",
+            "FirstName": "Tyronn",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31646563618",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "tyronn.daal@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

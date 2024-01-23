@@ -1,0 +1,36 @@
+{
+    "Description": "F07462DD7B",
+    "ReferenceAtCustomer": "MGG8D7H8A1",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 3000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 56.48,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "den Ouden",
+    "Street": "Drutenstraat 7",
+    "Country": "NL",
+    "PostalCode": "3087 CC",
+    "City": "Rotterdam",
+    "Contacts": [
+        {
+            "LastName": "den Ouden",
+            "FirstName": "Michiel",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31104737400",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "michiel@ship.repair",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

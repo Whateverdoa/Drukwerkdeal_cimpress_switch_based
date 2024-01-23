@@ -1,0 +1,36 @@
+{
+    "Description": "F42095F0DA",
+    "ReferenceAtCustomer": "MEDB1B4CCH",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.58,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Koeman",
+    "Street": "Krollerweg 7",
+    "Country": "NL",
+    "PostalCode": "3774 RG",
+    "City": "Kootwijkerbroek",
+    "Contacts": [
+        {
+            "LastName": "Koeman",
+            "FirstName": "A.",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31644733322",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@floworganizers.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F6CEDBH727",
+    "ReferenceAtCustomer": "M378326591",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Van der Laan",
+    "Street": "Houtkade 11 Houtkade 11",
+    "Country": "NL",
+    "PostalCode": "2492TS",
+    "City": "Den Haag",
+    "Contacts": [
+        {
+            "LastName": "Van der Laan",
+            "FirstName": "Marije",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31624700290",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "marije@marijevanderlaan.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

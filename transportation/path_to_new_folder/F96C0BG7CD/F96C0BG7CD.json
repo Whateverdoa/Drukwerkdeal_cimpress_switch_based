@@ -1,0 +1,36 @@
+{
+    "Description": "F96C0BG7CD",
+    "ReferenceAtCustomer": "MB2C7F8DGF",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.63,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Janssen",
+    "Street": "Fosforstraat 88",
+    "Country": "NL",
+    "PostalCode": "5651 HK",
+    "City": "Eindhoven",
+    "Contacts": [
+        {
+            "LastName": "Janssen",
+            "FirstName": "AM",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@aapnootzita.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 3,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FH308HCH45",
+    "ReferenceAtCustomer": "M838H351C8",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 51.56,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "F.W. Middelkoop, van",
+    "Street": "Atoomweg 1",
+    "Country": "NL",
+    "PostalCode": "2421LZ",
+    "City": "Nieuwkoop",
+    "Contacts": [
+        {
+            "LastName": "F.W. Middelkoop, van",
+            "FirstName": "Drukkerij Middelkoop",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31172571354",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@drukkerijmiddelkoop.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Square",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

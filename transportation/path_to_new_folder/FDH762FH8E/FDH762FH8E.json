@@ -1,0 +1,36 @@
+{
+    "Description": "FDH762FH8E",
+    "ReferenceAtCustomer": "M3BC39B91F",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 4000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 68.7,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Maarten Perdieus",
+    "Street": "Maanstraat 3",
+    "Country": "BE",
+    "PostalCode": "2800",
+    "City": "Mechelen",
+    "Contacts": [
+        {
+            "LastName": "Maarten Perdieus",
+            "FirstName": "Absolute Petfood Ltd",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32495790208",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@absolutepetfood.com",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

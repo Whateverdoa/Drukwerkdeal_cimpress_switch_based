@@ -1,0 +1,36 @@
+{
+    "Description": "FE35G2FG5E",
+    "ReferenceAtCustomer": "MZ53B4B8E4",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 60.81,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "claudia de laat",
+    "Street": "Helvoirtseweg 130",
+    "Country": "NL",
+    "PostalCode": "5263 EH",
+    "City": "Vught",
+    "Contacts": [
+        {
+            "LastName": "claudia de laat",
+            "FirstName": "cloudseven studio",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31650428319",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "claudia.delaat@cloudsevenstudio.com",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "100,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Eco Adhesive Natureflex White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

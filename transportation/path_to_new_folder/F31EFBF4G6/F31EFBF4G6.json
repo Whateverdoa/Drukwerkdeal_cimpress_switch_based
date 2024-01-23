@@ -1,0 +1,36 @@
+{
+    "Description": "F31EFBF4G6",
+    "ReferenceAtCustomer": "MC2C009671",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.7,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van Loon",
+    "Street": "Prins Bernhardlaan 87",
+    "Country": "NL",
+    "PostalCode": "9641LT",
+    "City": "Veendam",
+    "Contacts": [
+        {
+            "LastName": "van Loon",
+            "FirstName": "Gerrit",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31681947477",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "gerrit.vanloon@primenius.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "15,0",
+    "Shape": "Rectangle",
+    "Winding": 3,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FG7F0F1911",
+    "ReferenceAtCustomer": "M4GDEC7BB0",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.8,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Mulder",
+    "Street": "Vechtstraat 2",
+    "Country": "NL",
+    "PostalCode": "7772AX",
+    "City": "HARDENBERG",
+    "Contacts": [
+        {
+            "LastName": "Mulder",
+            "FirstName": "Annebel",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0610628155",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@burofraai.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Paperwise White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

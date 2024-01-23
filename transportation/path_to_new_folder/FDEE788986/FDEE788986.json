@@ -1,0 +1,36 @@
+{
+    "Description": "FDEE788986",
+    "ReferenceAtCustomer": "M70D1BFC2H",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 5000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 103.16,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van Sommeren",
+    "Street": "Nieuwegracht 33",
+    "Country": "NL",
+    "PostalCode": "3512 LD",
+    "City": "Utrecht",
+    "Contacts": [
+        {
+            "LastName": "van Sommeren",
+            "FirstName": "Lisanne",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31302317494",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "facturen@pand-33.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "48,0",
+    "Height": "70,0",
+    "Shape": "Oval",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

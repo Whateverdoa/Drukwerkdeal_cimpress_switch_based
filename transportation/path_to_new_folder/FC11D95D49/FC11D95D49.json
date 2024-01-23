@@ -1,0 +1,36 @@
+{
+    "Description": "FC11D95D49",
+    "ReferenceAtCustomer": "M214D71A9B",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 42.65,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Koenraads",
+    "Street": "Nijverheidslaan 1556",
+    "Country": "BE",
+    "PostalCode": "3660",
+    "City": "OUDSBERGEN",
+    "Contacts": [
+        {
+            "LastName": "Koenraads",
+            "FirstName": "Gerty",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3289853727",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "service@intertrading.be",
+            "Function": ""
+        }
+    ],
+    "Width": "130,0",
+    "Height": "40,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

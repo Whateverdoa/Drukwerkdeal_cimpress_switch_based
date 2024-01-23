@@ -1,0 +1,36 @@
+{
+    "Description": "F2B6429H1D",
+    "ReferenceAtCustomer": "M2GEH06592",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.09,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Schrijver",
+    "Street": "Europalaan 400",
+    "Country": "NL",
+    "PostalCode": "3526KS",
+    "City": "UTRECHT",
+    "Contacts": [
+        {
+            "LastName": "Schrijver",
+            "FirstName": "Patrick",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "patrick.schrijver@beecot.com",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F70119B1H1",
+    "ReferenceAtCustomer": "MZ70HBAGC4",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 56.43,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Mansvelt",
+    "Street": "Fahrenheitstraat 22",
+    "Country": "NL",
+    "PostalCode": "6003 DC",
+    "City": "Weert",
+    "Contacts": [
+        {
+            "LastName": "Mansvelt",
+            "FirstName": "Thijs",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "null",
+            "Function": ""
+        }
+    ],
+    "Width": "148,0",
+    "Height": "210,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F42A44A889",
+    "ReferenceAtCustomer": "M536G1FDF4",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.8,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Richard Minkman",
+    "Street": "Spadelaan 13",
+    "Country": "NL",
+    "PostalCode": "7331AK",
+    "City": "Apeldoorn",
+    "Contacts": [
+        {
+            "LastName": "Richard Minkman",
+            "FirstName": "Minkman Beveiliging",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31553601007",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@2becreative.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "25,0",
+    "Height": "50,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FDD22H2E4C",
+    "ReferenceAtCustomer": "MG31G7ADF8",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.68,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Anke Meuwissen",
+    "Street": "Getelberg 19",
+    "Country": "NL",
+    "PostalCode": "6121XR",
+    "City": "Born",
+    "Contacts": [
+        {
+            "LastName": "Anke Meuwissen",
+            "FirstName": "Creative Cactus",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31622353420",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "ankemeuwissen@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "55,0",
+    "Height": "85,0",
+    "Shape": "Rectangle",
+    "Winding": 3,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

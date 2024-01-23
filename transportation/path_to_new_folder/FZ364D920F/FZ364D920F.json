@@ -1,0 +1,36 @@
+{
+    "Description": "FZ364D920F",
+    "ReferenceAtCustomer": "MDH571528C",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.88,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Communicatie",
+    "Street": "Utrechtseweg 425",
+    "Country": "NL",
+    "PostalCode": "6865 CK",
+    "City": "Doorwerth",
+    "Contacts": [
+        {
+            "LastName": "Communicatie",
+            "FirstName": "Afdeling",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31880321321",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "communicatie@vilente.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "35,0",
+    "Height": "50,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Paperwise White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

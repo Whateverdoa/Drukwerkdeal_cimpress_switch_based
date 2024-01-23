@@ -1,0 +1,36 @@
+{
+    "Description": "FG217175H4",
+    "ReferenceAtCustomer": "MF81FD1635",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 47.11,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Kloos",
+    "Street": "Isaacstraat 7",
+    "Country": "NL",
+    "PostalCode": "3766 BK",
+    "City": "Soest",
+    "Contacts": [
+        {
+            "LastName": "Kloos",
+            "FirstName": "Samantha",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31627087627",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "skloos@celebrationchurch.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

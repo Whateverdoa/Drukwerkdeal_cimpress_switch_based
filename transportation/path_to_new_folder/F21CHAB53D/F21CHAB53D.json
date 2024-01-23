@@ -1,0 +1,36 @@
+{
+    "Description": "F21CHAB53D",
+    "ReferenceAtCustomer": "M2C9F87B6G",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 61.4,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Zuurhout",
+    "Street": "Eindseweg 17",
+    "Country": "NL",
+    "PostalCode": "3959AT",
+    "City": "Overberg",
+    "Contacts": [
+        {
+            "LastName": "Zuurhout",
+            "FirstName": "Sjors",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31633030554",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "sjors.zuurhout93@gmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

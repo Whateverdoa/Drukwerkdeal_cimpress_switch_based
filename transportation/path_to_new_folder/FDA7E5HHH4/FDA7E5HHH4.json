@@ -1,0 +1,36 @@
+{
+    "Description": "FDA7E5HHH4",
+    "ReferenceAtCustomer": "MC31DAC07D",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 6000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 75.32,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "frans castelijn",
+    "Street": "Bovenste straat 69",
+    "Country": "NL",
+    "PostalCode": "6101EJ",
+    "City": "Echt",
+    "Contacts": [
+        {
+            "LastName": "frans castelijn",
+            "FirstName": "castelijn mode & lifestyle",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31651112280",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@castelijnmode.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

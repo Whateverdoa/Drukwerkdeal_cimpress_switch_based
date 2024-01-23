@@ -1,0 +1,36 @@
+{
+    "Description": "FE058A049D",
+    "ReferenceAtCustomer": "M4B58C8GCB",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 53.88,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van der Schoot",
+    "Street": "Kasteellaan 1",
+    "Country": "NL",
+    "PostalCode": "3455RR",
+    "City": "Haarzuilens",
+    "Contacts": [
+        {
+            "LastName": "van der Schoot",
+            "FirstName": "Cindy",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31650247721",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "administratie@kasteeldehaar.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FGDF2GH203",
+    "ReferenceAtCustomer": "MC29E92793",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 61.4,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Knol",
+    "Street": "Korte Poten 23A",
+    "Country": "NL",
+    "PostalCode": "2511EC",
+    "City": "'s-Gravenhage",
+    "Contacts": [
+        {
+            "LastName": "Knol",
+            "FirstName": "Edwig",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31630801170",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "e.knol@toko-pilipinas.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 1,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FFA9HE638H",
+    "ReferenceAtCustomer": "M7F7HE78B8",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 50.85,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Geert Smeding",
+    "Street": "Rondweg 34",
+    "Country": "NL",
+    "PostalCode": "1976BW",
+    "City": "IJmuiden",
+    "Contacts": [
+        {
+            "LastName": "Geert Smeding",
+            "FirstName": "Visrokerijsmeding",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31255511574",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@visrokerijsmeding.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

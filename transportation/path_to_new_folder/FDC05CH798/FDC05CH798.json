@@ -1,0 +1,36 @@
+{
+    "Description": "FDC05CH798",
+    "ReferenceAtCustomer": "M8HCHA0101",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.61,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Kwakkel",
+    "Street": "Markt 5",
+    "Country": "NL",
+    "PostalCode": "8161 CL",
+    "City": "Epe",
+    "Contacts": [
+        {
+            "LastName": "Kwakkel",
+            "FirstName": "Nicole",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31578820222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@cornelisepe.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Kraft Brown",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

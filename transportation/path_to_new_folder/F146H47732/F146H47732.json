@@ -1,0 +1,36 @@
+{
+    "Description": "F146H47732",
+    "ReferenceAtCustomer": "M19FDD5BA8",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 39.55,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Pietersz",
+    "Street": "Spaaklaan 39",
+    "Country": "NL",
+    "PostalCode": "3446HC",
+    "City": "Woerden",
+    "Contacts": [
+        {
+            "LastName": "Pietersz",
+            "FirstName": "Alrick",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31625121458",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "goudgelelimonade@gmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "100,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Antique White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F98GEE1GC3",
+    "ReferenceAtCustomer": "M9D71F0A33",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 3000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 52.31,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Borms",
+    "Street": "Ter Heidelaan 45",
+    "Country": "BE",
+    "PostalCode": "3200",
+    "City": "Aarschot",
+    "Contacts": [
+        {
+            "LastName": "Borms",
+            "FirstName": "Eva",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32474714609",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "evaborms@gmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "25,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

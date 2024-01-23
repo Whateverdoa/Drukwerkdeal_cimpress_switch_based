@@ -1,0 +1,36 @@
+{
+    "Description": "F8A322EB01",
+    "ReferenceAtCustomer": "M9B4C5GED2",
+    "Delivery": "2023-12-14",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.09,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "College",
+    "Street": "Sportlaan 8",
+    "Country": "NL",
+    "PostalCode": "5671 GR",
+    "City": "Nuenen",
+    "Contacts": [
+        {
+            "LastName": "College",
+            "FirstName": "Nuenens",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31402831569",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "null",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

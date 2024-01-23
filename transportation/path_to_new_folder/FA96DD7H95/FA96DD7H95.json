@@ -1,0 +1,36 @@
+{
+    "Description": "FA96DD7H95",
+    "ReferenceAtCustomer": "MFC5FA636H",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.65,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Frederik",
+    "Street": "Pompoenweg 9 Pompoenweg 9",
+    "Country": "NL",
+    "PostalCode": "2321 DK",
+    "City": "Leiden",
+    "Contacts": [
+        {
+            "LastName": "Frederik",
+            "FirstName": "John",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31715790101",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "john.frederik@riksjatravel.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Paperwise Earth Pact Natural",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

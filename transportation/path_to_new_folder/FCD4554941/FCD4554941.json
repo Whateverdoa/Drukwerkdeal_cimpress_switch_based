@@ -1,0 +1,36 @@
+{
+    "Description": "FCD4554941",
+    "ReferenceAtCustomer": "M7343E1F32",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.67,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Stam Horeca",
+    "Street": "Pieckstraat 10",
+    "Country": "NL",
+    "PostalCode": "5305BT",
+    "City": "Zuilichem",
+    "Contacts": [
+        {
+            "LastName": "Stam Horeca",
+            "FirstName": "der",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31418677200",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@vanderstamhoreca.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 1,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) Clear Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

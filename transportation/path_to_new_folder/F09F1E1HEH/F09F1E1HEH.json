@@ -1,0 +1,36 @@
+{
+    "Description": "F09F1E1HEH",
+    "ReferenceAtCustomer": "M64DB6CA16",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.04,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Retail",
+    "Street": "De Schutterij 27",
+    "Country": "NL",
+    "PostalCode": "3905 PK",
+    "City": "Veenendaal",
+    "Contacts": [
+        {
+            "LastName": "Retail",
+            "FirstName": "Eline",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31318582424",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "etabbers@groupeseb.com",
+            "Function": ""
+        }
+    ],
+    "Width": "74,0",
+    "Height": "25,0",
+    "Shape": "Rectangle",
+    "Winding": 3,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

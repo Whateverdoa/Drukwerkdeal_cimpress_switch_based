@@ -1,0 +1,36 @@
+{
+    "Description": "F735A2900C",
+    "ReferenceAtCustomer": "MB3GGD6149",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 61.99,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "R Schilder",
+    "Street": "Julianaweg 206 A",
+    "Country": "NL",
+    "PostalCode": "1131 DL",
+    "City": "Volendam",
+    "Contacts": [
+        {
+            "LastName": "R Schilder",
+            "FirstName": "Podobrace",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31852010818",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@podobrace.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "105,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

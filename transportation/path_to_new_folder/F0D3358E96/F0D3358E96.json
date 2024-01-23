@@ -1,0 +1,36 @@
+{
+    "Description": "F0D3358E96",
+    "ReferenceAtCustomer": "MEGGD1FG6G",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 127.25,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Tiethoff",
+    "Street": "Naarderweg 16",
+    "Country": "NL",
+    "PostalCode": "1217GL",
+    "City": "Hilversum",
+    "Contacts": [
+        {
+            "LastName": "Tiethoff",
+            "FirstName": "Maurits",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31850187540",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@dobbi.com",
+            "Function": ""
+        }
+    ],
+    "Width": "125,0",
+    "Height": "125,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

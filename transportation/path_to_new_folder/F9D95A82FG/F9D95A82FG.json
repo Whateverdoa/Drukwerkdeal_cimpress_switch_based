@@ -1,0 +1,36 @@
+{
+    "Description": "F9D95A82FG",
+    "ReferenceAtCustomer": "MD2D3B8HDD",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 3000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 64.32,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Verstappen",
+    "Street": "Markt 10",
+    "Country": "NL",
+    "PostalCode": "5721 GE",
+    "City": "Asten",
+    "Contacts": [
+        {
+            "LastName": "Verstappen",
+            "FirstName": "Angelique",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31493692623",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "angelique@beheervanderloo.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FEA6BD9640",
+    "ReferenceAtCustomer": "MAC9913C75",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.46,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Hoofs",
+    "Street": "Burg Janssenstraat 13",
+    "Country": "NL",
+    "PostalCode": "6191JB",
+    "City": "BEEK LB",
+    "Contacts": [
+        {
+            "LastName": "Hoofs",
+            "FirstName": "Erik",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "046-4371237",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@delindeboom.info",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

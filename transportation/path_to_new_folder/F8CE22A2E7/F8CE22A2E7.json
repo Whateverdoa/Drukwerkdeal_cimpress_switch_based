@@ -1,0 +1,36 @@
+{
+    "Description": "F8CE22A2E7",
+    "ReferenceAtCustomer": "M164F037AF",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.05,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van Wijk",
+    "Street": "Middenweg 176",
+    "Country": "NL",
+    "PostalCode": "1462 HL",
+    "City": "Middenbeemster",
+    "Contacts": [
+        {
+            "LastName": "van Wijk",
+            "FirstName": "Nancy",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31618640451",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@bijmoeders.com",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

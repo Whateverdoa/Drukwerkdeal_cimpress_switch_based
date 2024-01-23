@@ -1,0 +1,36 @@
+{
+    "Description": "F8A6A2DB13",
+    "ReferenceAtCustomer": "M1217H0583",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 125.57,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Stuckens",
+    "Street": "Zoutstraat 5 013325220",
+    "Country": "BE",
+    "PostalCode": "3290",
+    "City": "Diest",
+    "Contacts": [
+        {
+            "LastName": "Stuckens",
+            "FirstName": "Serge",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3213325220",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "serge@stuckens.com",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

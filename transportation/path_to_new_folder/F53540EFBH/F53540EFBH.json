@@ -1,0 +1,36 @@
+{
+    "Description": "F53540EFBH",
+    "ReferenceAtCustomer": "MD57GE11D3",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 61.4,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Roos",
+    "Street": "Kapitein Stamperiusflat 72",
+    "Country": "NL",
+    "PostalCode": "3333CE",
+    "City": "ZWIJNDRECHT",
+    "Contacts": [
+        {
+            "LastName": "Roos",
+            "FirstName": "D.M",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0618184508",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@goldfishamsterdam.com",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

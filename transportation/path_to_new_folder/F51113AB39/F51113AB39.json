@@ -1,0 +1,36 @@
+{
+    "Description": "F51113AB39",
+    "ReferenceAtCustomer": "M7165G994E",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 5000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 89.47,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "t.a.v. The Loft",
+    "Street": "De Trompet 1217",
+    "Country": "NL",
+    "PostalCode": "1967DA",
+    "City": "Heemskerk",
+    "Contacts": [
+        {
+            "LastName": "t.a.v. The Loft",
+            "FirstName": "Sipack",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@entertheloft.com",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Paperwise Earth Pact Natural",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

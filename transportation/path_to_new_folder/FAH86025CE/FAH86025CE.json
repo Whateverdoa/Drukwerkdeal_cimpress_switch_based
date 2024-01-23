@@ -1,0 +1,36 @@
+{
+    "Description": "FAH86025CE",
+    "ReferenceAtCustomer": "MEGGEF9F45",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.93,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Marcelis",
+    "Street": "Torenallee 20",
+    "Country": "NL",
+    "PostalCode": "5617 BC",
+    "City": "Eindhoven",
+    "Contacts": [
+        {
+            "LastName": "Marcelis",
+            "FirstName": "Marc",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@labelmylight.com",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

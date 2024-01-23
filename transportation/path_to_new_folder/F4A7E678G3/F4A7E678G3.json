@@ -1,0 +1,36 @@
+{
+    "Description": "F4A7E678G3",
+    "ReferenceAtCustomer": "MZE67G52C3",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.18,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van Meppelen Scheppink",
+    "Street": "Amerikalaan 5",
+    "Country": "NL",
+    "PostalCode": "3771 MC",
+    "City": "Barneveld",
+    "Contacts": [
+        {
+            "LastName": "van Meppelen Scheppink",
+            "FirstName": "Marlies",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31627305914",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "mvm@rengineers.eu",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

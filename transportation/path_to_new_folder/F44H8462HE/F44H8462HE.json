@@ -1,0 +1,36 @@
+{
+    "Description": "F44H8462HE",
+    "ReferenceAtCustomer": "M2CBBE2D10",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.18,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Caffe",
+    "Street": "Bloemgracht 102",
+    "Country": "NL",
+    "PostalCode": "1015TN",
+    "City": "Amsterdam",
+    "Contacts": [
+        {
+            "LastName": "Caffe",
+            "FirstName": "Patrick",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31626988589",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "patrick@slokhospitality.com",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F1F86H65AD",
+    "ReferenceAtCustomer": "M645F55608",
+    "Delivery": "2023-12-26",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.32,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Becue",
+    "Street": "Otegemstraat 45",
+    "Country": "BE",
+    "PostalCode": "8550",
+    "City": "Zwevegem",
+    "Contacts": [
+        {
+            "LastName": "Becue",
+            "FirstName": "ERA",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32470180418",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "sam@erabecue.be",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Square",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

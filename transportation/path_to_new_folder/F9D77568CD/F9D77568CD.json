@@ -1,0 +1,36 @@
+{
+    "Description": "F9D77568CD",
+    "ReferenceAtCustomer": "MC4DCGF7F1",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.03,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Heffelaar",
+    "Street": "Teslastraat 44",
+    "Country": "NL",
+    "PostalCode": "2014 KN",
+    "City": "Haarlem",
+    "Contacts": [
+        {
+            "LastName": "Heffelaar",
+            "FirstName": "Julian",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31621716829",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "julianheffelaar@live.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 3,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

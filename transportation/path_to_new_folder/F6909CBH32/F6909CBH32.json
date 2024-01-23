@@ -1,0 +1,36 @@
+{
+    "Description": "F6909CBH32",
+    "ReferenceAtCustomer": "M20HF70003",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 3000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 106.65,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Broeren",
+    "Street": "Hoge Ham 131 A",
+    "Country": "NL",
+    "PostalCode": "5104JD",
+    "City": "DONGEN",
+    "Contacts": [
+        {
+            "LastName": "Broeren",
+            "FirstName": "NHJ",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": null,
+            "Function": ""
+        }
+    ],
+    "Width": "75,0",
+    "Height": "75,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Silver Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

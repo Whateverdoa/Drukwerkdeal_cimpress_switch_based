@@ -1,0 +1,36 @@
+{
+    "Description": "F1BG8F0560",
+    "ReferenceAtCustomer": "M1149CA75B",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 71.52,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Huijssoon",
+    "Street": "Lindehoevelaan 2 a",
+    "Country": "NL",
+    "PostalCode": "2991 EL",
+    "City": "Barendrecht",
+    "Contacts": [
+        {
+            "LastName": "Huijssoon",
+            "FirstName": "R",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31180692929",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "rhuijssoon@apotheekdelindehoeve.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "85,0",
+    "Height": "55,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Fluor Orange",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FCFGF6HF0C",
+    "ReferenceAtCustomer": "M3CDCD64A9",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.1,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Eva Vanooteghem",
+    "Street": "Gentseweg 160",
+    "Country": "BE",
+    "PostalCode": "8791",
+    "City": "Desselgem",
+    "Contacts": [
+        {
+            "LastName": "Eva Vanooteghem",
+            "FirstName": "BLOOM BV",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3256484952",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "contact@bloom.be",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

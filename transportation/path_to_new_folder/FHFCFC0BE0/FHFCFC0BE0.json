@@ -1,0 +1,36 @@
+{
+    "Description": "FHFCFC0BE0",
+    "ReferenceAtCustomer": "MGEH82BHAD",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 103.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Italiaander",
+    "Street": "Lakenblekerstraat 60",
+    "Country": "NL",
+    "PostalCode": "1431GG",
+    "City": "AALSMEER",
+    "Contacts": [
+        {
+            "LastName": "Italiaander",
+            "FirstName": "Gideon",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 6 26260528",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": null,
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

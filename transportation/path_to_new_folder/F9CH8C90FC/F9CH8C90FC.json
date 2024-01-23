@@ -1,0 +1,36 @@
+{
+    "Description": "F9CH8C90FC",
+    "ReferenceAtCustomer": "MC0A64ABBF",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 50.85,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Bays",
+    "Street": "22a Hartmansstraat",
+    "Country": "NL",
+    "PostalCode": "3012VA",
+    "City": "Rotterdam",
+    "Contacts": [
+        {
+            "LastName": "Bays",
+            "FirstName": "Bays",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31650525666",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "bas@basbakt.com",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

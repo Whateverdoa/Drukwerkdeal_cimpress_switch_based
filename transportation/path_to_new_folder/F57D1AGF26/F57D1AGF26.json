@@ -1,0 +1,36 @@
+{
+    "Description": "F57D1AGF26",
+    "ReferenceAtCustomer": "MZD51E2C69",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 5000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 66.06,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Mark van Gils",
+    "Street": "Kleibultweg 48",
+    "Country": "NL",
+    "PostalCode": "7575 BV",
+    "City": "Oldenzaal",
+    "Contacts": [
+        {
+            "LastName": "Mark van Gils",
+            "FirstName": "Profijt meubels",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@designenmedia.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "30,0",
+    "Shape": "Oval",
+    "Winding": 3,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

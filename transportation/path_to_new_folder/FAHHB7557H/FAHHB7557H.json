@@ -1,0 +1,36 @@
+{
+    "Description": "FAHHB7557H",
+    "ReferenceAtCustomer": "M446797EEB",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 103.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "de Wilde",
+    "Street": "Honderdland 776",
+    "Country": "NL",
+    "PostalCode": "2676LV",
+    "City": "Maasdijk",
+    "Contacts": [
+        {
+            "LastName": "de Wilde",
+            "FirstName": "Melanie",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0614052714",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@enjoygranola.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

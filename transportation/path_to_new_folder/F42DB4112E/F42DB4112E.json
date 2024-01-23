@@ -1,0 +1,36 @@
+{
+    "Description": "F42DB4112E",
+    "ReferenceAtCustomer": "M989HCD18F",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.45,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Evelyne Djan",
+    "Street": "Van Breestraat 18 Apotheek",
+    "Country": "BE",
+    "PostalCode": "2018",
+    "City": "Antwerpen",
+    "Contacts": [
+        {
+            "LastName": "Evelyne Djan",
+            "FirstName": "Apotheek Van Bree",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3232331102",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@apotheekvanbree.be",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Kraft Brown",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

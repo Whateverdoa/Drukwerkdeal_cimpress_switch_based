@@ -1,0 +1,36 @@
+{
+    "Description": "F132A5EA35",
+    "ReferenceAtCustomer": "M555E5565C",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 74.76,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Weststrate",
+    "Street": "Meent 7 A",
+    "Country": "NL",
+    "PostalCode": "3011JA",
+    "City": "ROTTERDAM",
+    "Contacts": [
+        {
+            "LastName": "Weststrate",
+            "FirstName": "Margaret",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31107528405",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "mweststrate@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

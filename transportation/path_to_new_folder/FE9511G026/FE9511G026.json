@@ -1,0 +1,36 @@
+{
+    "Description": "FE9511G026",
+    "ReferenceAtCustomer": "MA7EBFEF65",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.86,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Factory",
+    "Street": "Televisiestraat 2",
+    "Country": "NL",
+    "PostalCode": "2525KD",
+    "City": "'s-Gravenhage",
+    "Contacts": [
+        {
+            "LastName": "Factory",
+            "FirstName": "Roast",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@roastfactory.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Matte",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

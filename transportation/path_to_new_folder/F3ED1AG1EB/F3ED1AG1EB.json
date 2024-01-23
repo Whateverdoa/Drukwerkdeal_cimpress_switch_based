@@ -1,0 +1,36 @@
+{
+    "Description": "F3ED1AG1EB",
+    "ReferenceAtCustomer": "MC79EB734H",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.44,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Willems",
+    "Street": "Bosstraat 26 bus 2",
+    "Country": "BE",
+    "PostalCode": "3560",
+    "City": "Lummen",
+    "Contacts": [
+        {
+            "LastName": "Willems",
+            "FirstName": "Kimberley",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3213353433",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "administratie@actief.be",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Eco Adhesive Natureflex Clear Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

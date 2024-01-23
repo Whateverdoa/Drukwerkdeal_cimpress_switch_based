@@ -1,0 +1,36 @@
+{
+    "Description": "FFBA5A60C7",
+    "ReferenceAtCustomer": "M65EHCCH8A",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Schellekens",
+    "Street": "Deutersestraat 1d",
+    "Country": "NL",
+    "PostalCode": "5223GV",
+    "City": "'s-Hertogenbosch",
+    "Contacts": [
+        {
+            "LastName": "Schellekens",
+            "FirstName": "Annemarie",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31622055948",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "annemarie.schellekens@fontys.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

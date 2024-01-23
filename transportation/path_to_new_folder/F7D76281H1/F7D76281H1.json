@@ -1,0 +1,36 @@
+{
+    "Description": "F7D76281H1",
+    "ReferenceAtCustomer": "MHAH8B21G2",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 55.25,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Coeckelberghs",
+    "Street": "Dries 1 C",
+    "Country": "BE",
+    "PostalCode": "3380",
+    "City": "Glabbeek",
+    "Contacts": [
+        {
+            "LastName": "Coeckelberghs",
+            "FirstName": "Bart",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32497335072",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@bacotec.be",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "90,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Eco Adhesive Natureflex White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

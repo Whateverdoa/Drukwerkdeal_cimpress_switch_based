@@ -1,0 +1,36 @@
+{
+    "Description": "FD74G484E6",
+    "ReferenceAtCustomer": "MA4HFA4B0G",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.71,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van duivendijk",
+    "Street": "Beijerscheweg 12",
+    "Country": "NL",
+    "PostalCode": "2821 NG",
+    "City": "Stolwijk",
+    "Contacts": [
+        {
+            "LastName": "van duivendijk",
+            "FirstName": "marinda",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31182518504",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "beijerscheschuur@outlook.com",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

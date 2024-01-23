@@ -1,0 +1,36 @@
+{
+    "Description": "F4D693598H",
+    "ReferenceAtCustomer": "M8268H9E8B",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.48,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Anthony Claeys",
+    "Street": "Ambachtstraat 14",
+    "Country": "BE",
+    "PostalCode": "8820",
+    "City": "Torhout",
+    "Contacts": [
+        {
+            "LastName": "Anthony Claeys",
+            "FirstName": "Codekick BVBA",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32486973108",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "administratie@codekick.be",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F959G794GG",
+    "ReferenceAtCustomer": "M43AA43B89",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.07,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Josemans",
+    "Street": "Kapelweg 7",
+    "Country": "NL",
+    "PostalCode": "3566 MK",
+    "City": "Utrecht",
+    "Contacts": [
+        {
+            "LastName": "Josemans",
+            "FirstName": "Frederique",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31302817155",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "timothy@tomis.design",
+            "Function": ""
+        }
+    ],
+    "Width": "22,0",
+    "Height": "64,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Paperwise White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

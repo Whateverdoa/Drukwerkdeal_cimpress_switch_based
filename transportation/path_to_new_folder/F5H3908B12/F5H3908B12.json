@@ -1,0 +1,36 @@
+{
+    "Description": "F5H3908B12",
+    "ReferenceAtCustomer": "MD9145F5GD",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 44.44,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Huttinga-Kuipers",
+    "Street": "Douwelaan 54 Douwelaan 54",
+    "Country": "NL",
+    "PostalCode": "9062 EN",
+    "City": "Oentsjerk",
+    "Contacts": [
+        {
+            "LastName": "Huttinga-Kuipers",
+            "FirstName": "Baukje",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31653760602",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@owenfinch.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "110,0",
+    "Height": "110,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Silver Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

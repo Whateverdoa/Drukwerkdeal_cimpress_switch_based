@@ -1,0 +1,36 @@
+{
+    "Description": "FE9664738D",
+    "ReferenceAtCustomer": "M99B8486BH",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 5000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 215.47,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Paulo Zonneveld",
+    "Street": "Kobaltstraat 2",
+    "Country": "NL",
+    "PostalCode": "1362JM",
+    "City": "Almere",
+    "Contacts": [
+        {
+            "LastName": "Paulo Zonneveld",
+            "FirstName": "Nice to Meat",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "administratie@nicetomeat.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "110,0",
+    "Height": "110,0",
+    "Shape": "Square",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

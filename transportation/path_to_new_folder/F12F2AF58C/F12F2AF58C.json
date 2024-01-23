@@ -1,0 +1,36 @@
+{
+    "Description": "F12F2AF58C",
+    "ReferenceAtCustomer": "M1F8E9G6EB",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 54.14,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Noordover",
+    "Street": "V Zuylen van Nijeveltstr 1 B",
+    "Country": "NL",
+    "PostalCode": "2242AH",
+    "City": "WASSENAAR",
+    "Contacts": [
+        {
+            "LastName": "Noordover",
+            "FirstName": "Remi",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31705175193",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "kim@graphicsquare.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "90,0",
+    "Height": "50,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Paperwise White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FBE5DAGG2C",
+    "ReferenceAtCustomer": "MH2B5372BC",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.82,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Vermeire",
+    "Street": "Oude Havenstraat 9",
+    "Country": "NL",
+    "PostalCode": "4421HZ",
+    "City": "KAPELLE",
+    "Contacts": [
+        {
+            "LastName": "Vermeire",
+            "FirstName": "Leon",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0610657302",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "fanny@roomwithaview.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "35,0",
+    "Height": "105,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Antique White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F37805BF41",
+    "ReferenceAtCustomer": "M3602F9386",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.93,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "t.n.v. Berkel en Rodenrijs",
+    "Street": "Industrieweg 50",
+    "Country": "NL",
+    "PostalCode": "2651 BD",
+    "City": "Berkel en Rodenrijs",
+    "Contacts": [
+        {
+            "LastName": "t.n.v. Berkel en Rodenrijs",
+            "FirstName": "Stichting Kringloop Winkel RataPlan",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "communicatie@rataplan.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

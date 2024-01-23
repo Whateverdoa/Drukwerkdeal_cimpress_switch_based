@@ -1,0 +1,36 @@
+{
+    "Description": "FH8059886B",
+    "ReferenceAtCustomer": "M65C1HC1BH",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 8000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 49.48,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Nagengast  C.4310.1007.01",
+    "Street": "Oude Turfmarkt 129",
+    "Country": "NL",
+    "PostalCode": "1012GC",
+    "City": "AMSTERDAM",
+    "Contacts": [
+        {
+            "LastName": "Nagengast  C.4310.1007.01",
+            "FirstName": "Floor",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0648535208",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "f.h.nagengast@uva.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

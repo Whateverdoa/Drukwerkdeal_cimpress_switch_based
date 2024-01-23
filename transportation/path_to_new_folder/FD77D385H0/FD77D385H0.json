@@ -1,0 +1,36 @@
+{
+    "Description": "FD77D385H0",
+    "ReferenceAtCustomer": "MB16BGE078",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 5000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 85.2,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Brom",
+    "Street": "Kanaalstraat 80",
+    "Country": "NL",
+    "PostalCode": "2161 JN",
+    "City": "Lisse",
+    "Contacts": [
+        {
+            "LastName": "Brom",
+            "FirstName": "Ingmar",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "null",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

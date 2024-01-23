@@ -1,0 +1,36 @@
+{
+    "Description": "F9241929A7",
+    "ReferenceAtCustomer": "MDAA63C6D5",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.95,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Church",
+    "Street": "Tjalk 16",
+    "Country": "NL",
+    "PostalCode": "2411NZ",
+    "City": "BODEGRAVEN",
+    "Contacts": [
+        {
+            "LastName": "Church",
+            "FirstName": "House of Miracles",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31625336779",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@houseofmiracles.church",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

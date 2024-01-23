@@ -1,0 +1,36 @@
+{
+    "Description": "F31F2G734H",
+    "ReferenceAtCustomer": "MZ161DB6AG",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.1,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van der Pasch",
+    "Street": "Strekdam 15",
+    "Country": "NL",
+    "PostalCode": "3224CR",
+    "City": "Hellevoetsluis",
+    "Contacts": [
+        {
+            "LastName": "van der Pasch",
+            "FirstName": "freek",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31653529121",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "freekvdpasch@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

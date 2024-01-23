@@ -1,0 +1,36 @@
+{
+    "Description": "FBG4BCA4DE",
+    "ReferenceAtCustomer": "MC83E54730",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 44.72,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Manuel",
+    "Street": "Hofplein 20",
+    "Country": "NL",
+    "PostalCode": "3032AC",
+    "City": "Rotterdam",
+    "Contacts": [
+        {
+            "LastName": "Manuel",
+            "FirstName": "Christian",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31624627344",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "christiandavidmanuel@gmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "105,0",
+    "Height": "74,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

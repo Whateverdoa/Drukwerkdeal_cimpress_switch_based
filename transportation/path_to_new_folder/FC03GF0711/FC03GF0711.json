@@ -1,0 +1,36 @@
+{
+    "Description": "FC03GF0711",
+    "ReferenceAtCustomer": "M24E4CGE06",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 56.9,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "NUchelmans",
+    "Street": "Domineesgang 14b",
+    "Country": "NL",
+    "PostalCode": "4871KA",
+    "City": "Etten-Leur",
+    "Contacts": [
+        {
+            "LastName": "NUchelmans",
+            "FirstName": "Bram",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31622102701",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "administratie@hemelsebroodjes.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "75,0",
+    "Height": "75,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) Clear Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

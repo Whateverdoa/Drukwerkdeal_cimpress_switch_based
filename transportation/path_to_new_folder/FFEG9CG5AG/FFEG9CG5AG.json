@@ -1,0 +1,36 @@
+{
+    "Description": "FFEG9CG5AG",
+    "ReferenceAtCustomer": "MG731E44AB",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 750,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.13,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Maruschka van Soest",
+    "Street": "Hagenweg 3 c",
+    "Country": "NL",
+    "PostalCode": "4131LX",
+    "City": "Vianen",
+    "Contacts": [
+        {
+            "LastName": "Maruschka van Soest",
+            "FirstName": "Anders Medical Factoring",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31852733259",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "crediteuren@andersmf.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

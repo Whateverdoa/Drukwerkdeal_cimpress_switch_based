@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orderMetadata>
+  <orderId>F7H5921H93</orderId>
+  <createdDate>2024-01-09T14:00:39.432+00:00</createdDate>
+  <promisedArrivalDate>2024-01-16</promisedArrivalDate>
+  <merchantId>printdeal</merchantId>
+  <merchantOrderId>13061969</merchantOrderId>
+  <merchantOrderSupport>
+    <email>DWD@drukwerkdeal.nl</email>
+    <phoneNumber>+31 88 88 55 222</phoneNumber>
+  </merchantOrderSupport>
+  <destinationAddress>
+    <country>NL</country>
+    <postalCode>3311BV</postalCode>
+    <city>Dordrecht</city>
+    <firstName>Bibliotheek AanZet</firstName>
+    <lastName>- Dordrecht Stadsbibliotheek</lastName>
+    <phone>+31786205500</phone>
+    <street1>Buddinghplein 80</street1>
+    <email>facturen@debibliotheekaanzet.nl</email>
+  </destinationAddress>
+  <consigneeAddress>
+    <country>NL</country>
+    <postalCode>3311BV</postalCode>
+    <city>Dordrecht</city>
+    <firstName>Bibliotheek AanZet</firstName>
+    <lastName>- Dordrecht Stadsbibliotheek</lastName>
+    <phone>+31786205500</phone>
+    <street1>Buddinghplein 80</street1>
+    <email>facturen@debibliotheekaanzet.nl</email>
+  </consigneeAddress>
+  <items>
+  <item>
+    <itemId>MB705A8603</itemId>
+    <isTestItem>false</isTestItem>    
+    <sku>CIM-J9CBQWB7</sku>
+    <orderId>F7H5921H93</orderId>         
+    <quantity>1000</quantity>
+    <name>Custom Quote Order Item</name>
+    <description>The product used for custom quotes</description>
+    <document>https://fulfillment.at.cimpress.io/v1/items/MB705A8603/artwork</document>
+    <productManufacturingData>
+      <McpSkuName>Custom Quote Order Item</McpSkuName>
+      <Checkmate>Off</Checkmate>
+      <Production-Time-Type>dd</Production-Time-Type>
+      <Production-Time>1</Production-Time>
+      <productDescription>Stickers op rol, Papier wit glans, Afneembare belijming, 4/0 (Enkelzijdig full color), Kerndiameter 45 mm, Rolafwikkeling type 2, Rond 50 mm, Staand, Full color digitaal, 1 x 10 rollen van 100 stickers per rol</productDescription>
+      <productName>Stickers op rol</productName>
+      <fulfillerQuoteReference>2023010777</fulfillerQuoteReference>
+      <quoteRequestId>4DA0FD8E</quoteRequestId>
+    </productManufacturingData>
+    <merchantInformation>
+      <itemId>13061969-2</itemId>
+      <productName>Custom Quote Order Item</productName>
+    </merchantInformation>
+    <fulfillerPrice>
+      <amount>173.29</amount>
+      <currency>EUR</currency>
+    </fulfillerPrice>
+    <shippingPlans>
+      <expectedCarrierServiceKey>recs:postnl-avg</expectedCarrierServiceKey>
+      <expectedCarrierServiceName>PostNL AVG Standard</expectedCarrierServiceName>      
+      <expectedShipTime>2024-01-15T17:30:00+00:00</expectedShipTime>
+      <expectedShipTimeIsLate>false</expectedShipTimeIsLate>
+    </shippingPlans>
+    <deliveryDetails>    
+      <deliveryDetail>
+        <type>Standard</type>
+        <quantity>1000</quantity>
+        <destinationAddress>
+          <city>Dordrecht</city>
+          <firstName>Bibliotheek AanZet</firstName>
+          <lastName>- Dordrecht Stadsbibliotheek</lastName>
+          <phone>+31786205500</phone>
+          <email>facturen@debibliotheekaanzet.nl</email>
+          <street1>Buddinghplein 80</street1>
+          <country>NL</country>
+          <postalCode>3311BV</postalCode>
+          <isPOBox>null</isPOBox>
+          <isResidential>null</isResidential>
+        </destinationAddress>
+      </deliveryDetail>
+    </deliveryDetails>
+  </item>
+  </items>
+  <shippingDetails>
+    <returnAddress>
+    </returnAddress>            
+  </shippingDetails>          
+</orderMetadata>

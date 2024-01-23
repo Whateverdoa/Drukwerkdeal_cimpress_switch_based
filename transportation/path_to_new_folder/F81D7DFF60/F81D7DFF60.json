@@ -1,0 +1,36 @@
+{
+    "Description": "F81D7DFF60",
+    "ReferenceAtCustomer": "M176BCGCG8",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 56.43,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "de Jong",
+    "Street": "Jan van der Heydenstraat 70",
+    "Country": "NL",
+    "PostalCode": "2665 JB",
+    "City": "Bleiswijk",
+    "Contacts": [
+        {
+            "LastName": "de Jong",
+            "FirstName": "Karin",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31612424573",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@young4styling.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "148,0",
+    "Height": "105,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

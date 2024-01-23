@@ -1,0 +1,36 @@
+{
+    "Description": "F2G99977CH",
+    "ReferenceAtCustomer": "M456FG148E",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.09,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Vrijmoed",
+    "Street": "Keizer Karelweg 450",
+    "Country": "NL",
+    "PostalCode": "1181RL",
+    "City": "AMSTELVEEN",
+    "Contacts": [
+        {
+            "LastName": "Vrijmoed",
+            "FirstName": "Ollie",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0620438717",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "ollie@dutchvision.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

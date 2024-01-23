@@ -1,0 +1,36 @@
+{
+    "Description": "FCD00133EE",
+    "ReferenceAtCustomer": "MZ57GF300C",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 61.99,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Bakker",
+    "Street": "Maricoweg 7",
+    "Country": "NL",
+    "PostalCode": "1791MD",
+    "City": "Den Burg",
+    "Contacts": [
+        {
+            "LastName": "Bakker",
+            "FirstName": "Willem-Johan",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31222761770",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@macrovet.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "105,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

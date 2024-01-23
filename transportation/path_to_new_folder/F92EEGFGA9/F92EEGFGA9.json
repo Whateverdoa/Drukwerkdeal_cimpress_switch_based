@@ -1,0 +1,36 @@
+{
+    "Description": "F92EEGFGA9",
+    "ReferenceAtCustomer": "M046622G2B",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "camby",
+    "Street": "hamstraat 70",
+    "Country": "BE",
+    "PostalCode": "9250",
+    "City": "WAASMUNSTER",
+    "Contacts": [
+        {
+            "LastName": "camby",
+            "FirstName": "natascha",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32476576262",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "natacha_camby@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

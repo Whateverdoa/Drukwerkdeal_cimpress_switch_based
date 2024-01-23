@@ -1,0 +1,36 @@
+{
+    "Description": "F7B01D231B",
+    "ReferenceAtCustomer": "MD1BHC83G6",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 56.56,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Berbee",
+    "Street": "Fluorietweg 39",
+    "Country": "NL",
+    "PostalCode": "1812 RR",
+    "City": "Alkmaar",
+    "Contacts": [
+        {
+            "LastName": "Berbee",
+            "FirstName": "Frank",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31681142454",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "frank@baza.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "125,0",
+    "Height": "125,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

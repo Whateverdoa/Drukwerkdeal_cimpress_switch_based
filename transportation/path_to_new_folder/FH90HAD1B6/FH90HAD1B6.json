@@ -1,0 +1,36 @@
+{
+    "Description": "FH90HAD1B6",
+    "ReferenceAtCustomer": "MA2F1298H8",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.42,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "akil",
+    "Street": "Fischerstra\u00c3\u0178e 75",
+    "Country": "DE",
+    "PostalCode": "44805",
+    "City": "Bochum",
+    "Contacts": [
+        {
+            "LastName": "akil",
+            "FirstName": "heval",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "s-ahmed-qamishlo@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

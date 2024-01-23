@@ -1,0 +1,36 @@
+{
+    "Description": "FA48AG0288",
+    "ReferenceAtCustomer": "MZ9G0F4GAH",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.14,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Visser",
+    "Street": "Zernikelaan 8",
+    "Country": "NL",
+    "PostalCode": "9351 VA",
+    "City": "Leek",
+    "Contacts": [
+        {
+            "LastName": "Visser",
+            "FirstName": "Nico",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31622051541",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "nvisser@dijkstra-groep.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Eco Adhesive Natureflex White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

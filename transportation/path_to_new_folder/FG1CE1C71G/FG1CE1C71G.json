@@ -1,0 +1,36 @@
+{
+    "Description": "FG1CE1C71G",
+    "ReferenceAtCustomer": "M710C376HG",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.09,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Lock",
+    "Street": "Maasdijk 116",
+    "Country": "NL",
+    "PostalCode": "2691NW",
+    "City": "'s-Gravenzande",
+    "Contacts": [
+        {
+            "LastName": "Lock",
+            "FirstName": "Laura",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31623233995",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "olijfboompie@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

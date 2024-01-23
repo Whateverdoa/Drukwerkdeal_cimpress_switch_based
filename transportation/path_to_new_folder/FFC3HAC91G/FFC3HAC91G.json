@@ -1,0 +1,36 @@
+{
+    "Description": "FFC3HAC91G",
+    "ReferenceAtCustomer": "M45C6H0D0B",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 750,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.87,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Lugard",
+    "Street": "Apollolaan 151",
+    "Country": "NL",
+    "PostalCode": "1077AR",
+    "City": "Amsterdam",
+    "Contacts": [
+        {
+            "LastName": "Lugard",
+            "FirstName": "Ilse",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31624226624",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "office@umaconcepts.com",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

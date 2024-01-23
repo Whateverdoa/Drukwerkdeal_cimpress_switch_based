@@ -1,0 +1,36 @@
+{
+    "Description": "FZFC23E79E",
+    "ReferenceAtCustomer": "MG260FED5D",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.86,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Groot",
+    "Street": "Spieringweg 835",
+    "Country": "NL",
+    "PostalCode": "2142 ED",
+    "City": "Cruquius",
+    "Contacts": [
+        {
+            "LastName": "Groot",
+            "FirstName": "Natasha",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31614753915",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "natasha.groot@thegiftmakers.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "74,0",
+    "Height": "105,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FC6A8801GB",
+    "ReferenceAtCustomer": "M003GA1C47",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 47.11,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Vestiging Leidsche Rijn Centrum",
+    "Street": "Brusselplein 2",
+    "Country": "NL",
+    "PostalCode": "3541 CJ",
+    "City": "Utrecht",
+    "Contacts": [
+        {
+            "LastName": "Vestiging Leidsche Rijn Centrum",
+            "FirstName": "de Bibliotheek Utrecht",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "null",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

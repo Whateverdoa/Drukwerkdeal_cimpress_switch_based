@@ -1,0 +1,36 @@
+{
+    "Description": "F2H2BC968B",
+    "ReferenceAtCustomer": "M1GD66A3HG",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 106.39,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Kaat",
+    "Street": "Lange Voort 35-37",
+    "Country": "NL",
+    "PostalCode": "2343CB",
+    "City": "Oegstgeest",
+    "Contacts": [
+        {
+            "LastName": "Kaat",
+            "FirstName": "Lizzy",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31715172271",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@rijnlandseboekhandel.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "25,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Paperwise Earth Pact Natural",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

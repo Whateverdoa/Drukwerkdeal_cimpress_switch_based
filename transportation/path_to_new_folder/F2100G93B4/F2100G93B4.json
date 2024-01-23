@@ -1,0 +1,36 @@
+{
+    "Description": "F2100G93B4",
+    "ReferenceAtCustomer": "MEFDG59189",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.89,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Mazeland",
+    "Street": "dokter Hondelinkstraat 61",
+    "Country": "NL",
+    "PostalCode": "7591AB",
+    "City": "Denekamp",
+    "Contacts": [
+        {
+            "LastName": "Mazeland",
+            "FirstName": "Glenn",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31646959701",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "g.mazeland@cestsibon.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "75,0",
+    "Height": "75,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

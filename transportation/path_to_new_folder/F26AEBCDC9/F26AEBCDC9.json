@@ -1,0 +1,36 @@
+{
+    "Description": "F26AEBCDC9",
+    "ReferenceAtCustomer": "MD55BDA152",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 54.92,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Burggraaf",
+    "Street": "Koningin Wilhelminastr 93",
+    "Country": "NL",
+    "PostalCode": "8019AL",
+    "City": "ZWOLLE",
+    "Contacts": [
+        {
+            "LastName": "Burggraaf",
+            "FirstName": "Elise",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31636539879",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "eburggraaf@thomasakempis.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "75,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F0B88B1D2B",
+    "ReferenceAtCustomer": "MH70730153",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 43.27,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Marco Mooren",
+    "Street": "Schimminck 16",
+    "Country": "NL",
+    "PostalCode": "5301KR",
+    "City": "Zaltbommel",
+    "Contacts": [
+        {
+            "LastName": "Marco Mooren",
+            "FirstName": "MAT Afbouw B.V.",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31610944884",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "m.mooren@matafbouw.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Fluor Yellow",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

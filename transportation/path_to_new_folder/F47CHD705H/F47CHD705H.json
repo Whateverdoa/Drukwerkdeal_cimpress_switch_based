@@ -1,0 +1,36 @@
+{
+    "Description": "F47CHD705H",
+    "ReferenceAtCustomer": "MF5G5BH0B8",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.82,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Sonnati",
+    "Street": "Vincent van den Heuvelln 5",
+    "Country": "NL",
+    "PostalCode": "5612MZ",
+    "City": "Eindhoven",
+    "Contacts": [
+        {
+            "LastName": "Sonnati",
+            "FirstName": "Sophie",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0643159310",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "sophiesonnati@goodhabitz.com",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Square",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Paperwise White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

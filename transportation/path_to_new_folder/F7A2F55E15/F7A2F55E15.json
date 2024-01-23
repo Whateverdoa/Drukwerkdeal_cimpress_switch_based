@@ -1,0 +1,36 @@
+{
+    "Description": "F7A2F55E15",
+    "ReferenceAtCustomer": "M861B92030",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 52.58,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "A Gaudry",
+    "Street": "Rue Moulin Brabant, 17",
+    "Country": "BE",
+    "PostalCode": "5030",
+    "City": "Gembloux",
+    "Contacts": [
+        {
+            "LastName": "A Gaudry",
+            "FirstName": "Publisportime",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32472618890",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@publisportime.be",
+            "Function": ""
+        }
+    ],
+    "Width": "75,0",
+    "Height": "75,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

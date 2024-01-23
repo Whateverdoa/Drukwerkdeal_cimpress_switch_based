@@ -1,0 +1,36 @@
+{
+    "Description": "F05ACAE1A5",
+    "ReferenceAtCustomer": "MG5A92GH2H",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.8,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van der Meer",
+    "Street": "Terpstraat 37 A",
+    "Country": "NL",
+    "PostalCode": "1771AC",
+    "City": "WIERINGERWERF",
+    "Contacts": [
+        {
+            "LastName": "van der Meer",
+            "FirstName": "Marleen",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@marleenskaas.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "25,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

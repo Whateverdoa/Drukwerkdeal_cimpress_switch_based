@@ -1,0 +1,36 @@
+{
+    "Description": "F338HGH3HD",
+    "ReferenceAtCustomer": "MCCA4CA1GF",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.25,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "M. van de Reep",
+    "Street": "Maurick 20",
+    "Country": "NL",
+    "PostalCode": "2181LB",
+    "City": "Hillegom",
+    "Contacts": [
+        {
+            "LastName": "M. van de Reep",
+            "FirstName": "Uitgeverij Inzicht",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31649385734",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@inzicht.org",
+            "Function": ""
+        }
+    ],
+    "Width": "105,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

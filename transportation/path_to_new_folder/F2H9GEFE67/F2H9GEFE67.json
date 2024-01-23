@@ -1,0 +1,36 @@
+{
+    "Description": "F2H9GEFE67",
+    "ReferenceAtCustomer": "MFE5B4FC70",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 52.58,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "de Witte",
+    "Street": "Hoofden 38",
+    "Country": "NL",
+    "PostalCode": "8604DH",
+    "City": "SNEEK",
+    "Contacts": [
+        {
+            "LastName": "de Witte",
+            "FirstName": "Bart",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0612765821",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": null,
+            "Function": ""
+        }
+    ],
+    "Width": "75,0",
+    "Height": "75,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

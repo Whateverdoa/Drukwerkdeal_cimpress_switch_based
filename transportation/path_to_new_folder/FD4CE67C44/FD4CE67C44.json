@@ -1,0 +1,36 @@
+{
+    "Description": "FD4CE67C44",
+    "ReferenceAtCustomer": "MD60G52B61",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.59,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Huang",
+    "Street": "John M. Keynesplein 12\u00e2\u20ac\u201c46",
+    "Country": "NL",
+    "PostalCode": "1066 EP",
+    "City": "Amsterdam",
+    "Contacts": [
+        {
+            "LastName": "Huang",
+            "FirstName": "Hong Yan",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "06-17473225",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "finance@truelegends.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "74,0",
+    "Height": "52,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FB0702CHCB",
+    "ReferenceAtCustomer": "MAH4DE2525",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.35,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Rozestraten",
+    "Street": "Anna Blamanhof 32",
+    "Country": "NL",
+    "PostalCode": "1962HM",
+    "City": "HEEMSKERK",
+    "Contacts": [
+        {
+            "LastName": "Rozestraten",
+            "FirstName": "Tom",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "tom@verdeggio.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

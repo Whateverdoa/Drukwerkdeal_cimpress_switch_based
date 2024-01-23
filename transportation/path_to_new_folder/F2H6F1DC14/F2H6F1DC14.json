@@ -1,0 +1,36 @@
+{
+    "Description": "F2H6F1DC14",
+    "ReferenceAtCustomer": "M2FAFA78A2",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 5000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 77.63,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "de Bruin",
+    "Street": "Spadelaan 25",
+    "Country": "NL",
+    "PostalCode": "7331 AK",
+    "City": "Apeldoorn",
+    "Contacts": [
+        {
+            "LastName": "de Bruin",
+            "FirstName": "Wilco",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31653381547",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "debruin055@upcmail.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

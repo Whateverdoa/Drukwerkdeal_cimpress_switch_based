@@ -1,0 +1,36 @@
+{
+    "Description": "F248435BBC",
+    "ReferenceAtCustomer": "MBDHC23D1B",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.58,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Kiffen",
+    "Street": "Keulenstraat 4 A",
+    "Country": "NL",
+    "PostalCode": "7418ET",
+    "City": "DEVENTER",
+    "Contacts": [
+        {
+            "LastName": "Kiffen",
+            "FirstName": "Lex",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0657227467",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "lex.kiffen@drukwerkdeal.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 1,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Fluor Orange",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

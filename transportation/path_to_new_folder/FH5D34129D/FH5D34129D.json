@@ -1,0 +1,36 @@
+{
+    "Description": "FH5D34129D",
+    "ReferenceAtCustomer": "M2D4A91949",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 74.76,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Petra van Beek",
+    "Street": "De Smalle Zijde 60 a",
+    "Country": "NL",
+    "PostalCode": "3903LR",
+    "City": "Veenendaal",
+    "Contacts": [
+        {
+            "LastName": "Petra van Beek",
+            "FirstName": "Intercheese Holland",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31318463494",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "petra@intercheeseholland.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

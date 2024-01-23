@@ -1,0 +1,36 @@
+{
+    "Description": "F98EG23C70",
+    "ReferenceAtCustomer": "MG3CAGCDB8",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.46,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Hartman",
+    "Street": "Zomerhofstraat 66",
+    "Country": "NL",
+    "PostalCode": "3032CM",
+    "City": "ROTTERDAM",
+    "Contacts": [
+        {
+            "LastName": "Hartman",
+            "FirstName": "Jesper",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": null,
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

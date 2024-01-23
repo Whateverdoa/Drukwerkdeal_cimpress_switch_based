@@ -1,0 +1,36 @@
+{
+    "Description": "FF078A16GD",
+    "ReferenceAtCustomer": "MAHGC3HABG",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.89,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Koenders",
+    "Street": "Streeksteeg 14",
+    "Country": "NL",
+    "PostalCode": "6003PN",
+    "City": "Weert",
+    "Contacts": [
+        {
+            "LastName": "Koenders",
+            "FirstName": "Lieke",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31623811088",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@liekekoenders.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Paperwise Earth Pact Natural",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

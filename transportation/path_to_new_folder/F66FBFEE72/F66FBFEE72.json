@@ -1,0 +1,36 @@
+{
+    "Description": "F66FBFEE72",
+    "ReferenceAtCustomer": "M2H1388FFC",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 43.9,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Grondwerken",
+    "Street": "Brouwhuisweg 46",
+    "Country": "NL",
+    "PostalCode": "5756PR",
+    "City": "Vlierden",
+    "Contacts": [
+        {
+            "LastName": "Grondwerken",
+            "FirstName": "Tielemans",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31624205560",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@tielemansgrondwerken.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 1,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) Clear Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

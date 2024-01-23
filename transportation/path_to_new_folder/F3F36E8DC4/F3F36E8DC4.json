@@ -1,0 +1,36 @@
+{
+    "Description": "F3F36E8DC4",
+    "ReferenceAtCustomer": "M710C14HE8",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 750,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.13,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van der Snel",
+    "Street": "Laan van Fasna 57",
+    "Country": "NL",
+    "PostalCode": "8171KH",
+    "City": "Vaassen",
+    "Contacts": [
+        {
+            "LastName": "van der Snel",
+            "FirstName": "Geralde",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31578574808",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "secretariaat@van-erkelens.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F166346F43",
+    "ReferenceAtCustomer": "MGCAE864C8",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.34,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Aalders",
+    "Street": "Braamweg 72",
+    "Country": "NL",
+    "PostalCode": "6821jT",
+    "City": "Arnhem",
+    "Contacts": [
+        {
+            "LastName": "Aalders",
+            "FirstName": "Angelique",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31623320027",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "angelique@buroj8.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "105,0",
+    "Height": "74,0",
+    "Shape": "Rectangle",
+    "Winding": 1,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

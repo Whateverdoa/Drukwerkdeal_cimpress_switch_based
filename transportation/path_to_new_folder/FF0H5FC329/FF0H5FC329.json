@@ -1,0 +1,36 @@
+{
+    "Description": "FF0H5FC329",
+    "ReferenceAtCustomer": "MEHB14EDB8",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 79.35,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Apparatuurplanet B.V.",
+    "Street": "Provincialeweg 9",
+    "Country": "NL",
+    "PostalCode": "5334JC",
+    "City": "Velddriel",
+    "Contacts": [
+        {
+            "LastName": "Apparatuurplanet B.V.",
+            "FirstName": "Apparatuurplanet B.V.",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31418726800",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@apparatuurplanet.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Fluor Yellow",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

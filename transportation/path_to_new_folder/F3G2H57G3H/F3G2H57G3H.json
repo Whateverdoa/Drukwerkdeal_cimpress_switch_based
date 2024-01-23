@@ -1,0 +1,36 @@
+{
+    "Description": "F3G2H57G3H",
+    "ReferenceAtCustomer": "M2EF3F616H",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 103.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "PYO",
+    "Street": "Oudaen 29",
+    "Country": "NL",
+    "PostalCode": "1081 BB",
+    "City": "Amsterdam",
+    "Contacts": [
+        {
+            "LastName": "PYO",
+            "FirstName": "JUNG HUN",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31636019164",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "junghun.pyo@thebab.company",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

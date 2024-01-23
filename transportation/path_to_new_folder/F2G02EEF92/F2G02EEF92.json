@@ -1,0 +1,36 @@
+{
+    "Description": "F2G02EEF92",
+    "ReferenceAtCustomer": "MH9G1H6318",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 3000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 60.15,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Oliver Windell",
+    "Street": "Hoogstraat 11",
+    "Country": "NL",
+    "PostalCode": "5469EL",
+    "City": "Erp",
+    "Contacts": [
+        {
+            "LastName": "Oliver Windell",
+            "FirstName": "BJC Tools",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31413211156",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "factuurerp@bjctools.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "74,0",
+    "Height": "25,0",
+    "Shape": "Rectangle",
+    "Winding": 1,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

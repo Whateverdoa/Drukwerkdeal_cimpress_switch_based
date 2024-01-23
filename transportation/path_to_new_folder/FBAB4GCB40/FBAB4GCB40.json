@@ -1,0 +1,36 @@
+{
+    "Description": "FBAB4GCB40",
+    "ReferenceAtCustomer": "M0G6E10622",
+    "Delivery": "2023-12-26",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.05,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Claessens",
+    "Street": "Vruntebaan 17",
+    "Country": "BE",
+    "PostalCode": "2520",
+    "City": "Emblem",
+    "Contacts": [
+        {
+            "LastName": "Claessens",
+            "FirstName": "Dirk",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32489334426",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@claessenskoffie.be",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

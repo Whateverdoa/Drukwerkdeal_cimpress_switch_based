@@ -1,0 +1,36 @@
+{
+    "Description": "FEF0G2606D",
+    "ReferenceAtCustomer": "MGF29EHC61",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.93,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Verheirstraeten",
+    "Street": "Leuvensesteenweg 288",
+    "Country": "BE",
+    "PostalCode": "3070",
+    "City": "Kortenberg",
+    "Contacts": [
+        {
+            "LastName": "Verheirstraeten",
+            "FirstName": "Sofie",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@kokoro.be",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F282CEG88B",
+    "ReferenceAtCustomer": "M999B53588",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.34,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Gevers",
+    "Street": "De Morgenstond 39 a",
+    "Country": "NL",
+    "PostalCode": "5473 HE",
+    "City": "Heeswijk-dinther",
+    "Contacts": [
+        {
+            "LastName": "Gevers",
+            "FirstName": "R.",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31413714190",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@grt-tech.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "180,0",
+    "Height": "80,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

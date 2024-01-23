@@ -1,0 +1,36 @@
+{
+    "Description": "F6GFE9AG38",
+    "ReferenceAtCustomer": "MD4831CG40",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.77,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Bambacht",
+    "Street": "Hoogsdenhof 16",
+    "Country": "NL",
+    "PostalCode": "5301 ZB",
+    "City": "Zaltbommel",
+    "Contacts": [
+        {
+            "LastName": "Bambacht",
+            "FirstName": "Ferry",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31653451283",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@febabusinesssupport.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

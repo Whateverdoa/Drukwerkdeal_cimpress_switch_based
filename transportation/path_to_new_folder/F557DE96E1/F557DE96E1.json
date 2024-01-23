@@ -1,0 +1,36 @@
+{
+    "Description": "F557DE96E1",
+    "ReferenceAtCustomer": "M74GH10091",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 42.26,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Altena",
+    "Street": "It Gruth\u00c3\u00b4f 2D",
+    "Country": "NL",
+    "PostalCode": "8754 GZ",
+    "City": "Makkum",
+    "Contacts": [
+        {
+            "LastName": "Altena",
+            "FirstName": "Ron",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31515227042",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@ijsselmeerwonen.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "35,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

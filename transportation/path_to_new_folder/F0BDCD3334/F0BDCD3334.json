@@ -1,0 +1,36 @@
+{
+    "Description": "F0BDCD3334",
+    "ReferenceAtCustomer": "M9AAAA1GFC",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Bruin",
+    "Street": "Marktplein 89",
+    "Country": "NL",
+    "PostalCode": "1721 CK",
+    "City": "Broek op Langedijk",
+    "Contacts": [
+        {
+            "LastName": "Bruin",
+            "FirstName": "Marcella",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "marcella_bruin@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

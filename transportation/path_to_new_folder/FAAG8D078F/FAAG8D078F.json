@@ -1,0 +1,36 @@
+{
+    "Description": "FAAG8D078F",
+    "ReferenceAtCustomer": "M1CB719887",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 43.44,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Tijn Paquay",
+    "Street": "Sanderusstraat 87",
+    "Country": "BE",
+    "PostalCode": "2018",
+    "City": "Antwerpen",
+    "Contacts": [
+        {
+            "LastName": "Tijn Paquay",
+            "FirstName": "Funkiness Design",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3232261408",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@funkiness.be",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

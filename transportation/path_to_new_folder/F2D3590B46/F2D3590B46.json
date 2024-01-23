@@ -1,0 +1,36 @@
+{
+    "Description": "F2D3590B46",
+    "ReferenceAtCustomer": "MGE304BF23",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 79.87,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Mattijssen",
+    "Street": "Marithaime 6",
+    "Country": "NL",
+    "PostalCode": "6662WD",
+    "City": "Elst",
+    "Contacts": [
+        {
+            "LastName": "Mattijssen",
+            "FirstName": "Conny",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31481353202",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "inkoop@de-haardt.com",
+            "Function": ""
+        }
+    ],
+    "Width": "210,0",
+    "Height": "148,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

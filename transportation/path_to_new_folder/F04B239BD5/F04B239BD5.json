@@ -1,0 +1,36 @@
+{
+    "Description": "F04B239BD5",
+    "ReferenceAtCustomer": "M68BG472BA",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 36.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "de Groot",
+    "Street": "Industrieweg 25-A",
+    "Country": "NL",
+    "PostalCode": "4214 KZ",
+    "City": "Vuren",
+    "Contacts": [
+        {
+            "LastName": "de Groot",
+            "FirstName": "Arie",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31612123387",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@buffetto.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FB907GB15D",
+    "ReferenceAtCustomer": "MF7CGAH70F",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 33.71,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Kestens",
+    "Street": "Leuvenselaan 762",
+    "Country": "BE",
+    "PostalCode": "3300",
+    "City": "Tienen",
+    "Contacts": [
+        {
+            "LastName": "Kestens",
+            "FirstName": "Antje",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0123456789",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@fi-elle.be",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

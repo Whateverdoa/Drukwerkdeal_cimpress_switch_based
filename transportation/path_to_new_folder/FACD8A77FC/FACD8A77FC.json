@@ -1,0 +1,36 @@
+{
+    "Description": "FACD8A77FC",
+    "ReferenceAtCustomer": "M64HG9ED3B",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 7000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 95.48,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Libois",
+    "Street": "Avenue Robert Schuman 10",
+    "Country": "BE",
+    "PostalCode": "1400",
+    "City": "Nivelles",
+    "Contacts": [
+        {
+            "LastName": "Libois",
+            "FirstName": "Antoine",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32497678477",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "Alexis@myamericanshop.com",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

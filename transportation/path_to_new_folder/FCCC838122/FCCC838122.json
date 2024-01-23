@@ -1,0 +1,36 @@
+{
+    "Description": "FCCC838122",
+    "ReferenceAtCustomer": "ME8683G014",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 74.76,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Van der Harst",
+    "Street": "Henegouwerplein 58",
+    "Country": "NL",
+    "PostalCode": "3021PN",
+    "City": "Rotterdam",
+    "Contacts": [
+        {
+            "LastName": "Van der Harst",
+            "FirstName": "Leon",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31103118626",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "mike@excitehotels.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

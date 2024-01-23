@@ -1,0 +1,36 @@
+{
+    "Description": "FBAEF95738",
+    "ReferenceAtCustomer": "M8B27DC6AE",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 54.19,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Walraven",
+    "Street": "De Bouw 93",
+    "Country": "NL",
+    "PostalCode": "3991SZ",
+    "City": "HOUTEN",
+    "Contacts": [
+        {
+            "LastName": "Walraven",
+            "FirstName": "Hieke",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0881264900",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@fiom.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "85,0",
+    "Height": "55,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Matte",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

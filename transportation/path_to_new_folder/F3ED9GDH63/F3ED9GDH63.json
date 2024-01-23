@@ -1,0 +1,36 @@
+{
+    "Description": "F3ED9GDH63",
+    "ReferenceAtCustomer": "M6A04155AE",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.93,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "t.n.v. Amersfoort",
+    "Street": "Euroweg 23",
+    "Country": "NL",
+    "PostalCode": "3825HA",
+    "City": "AMERSFOORT",
+    "Contacts": [
+        {
+            "LastName": "t.n.v. Amersfoort",
+            "FirstName": "Stichting Kringloop Winkel Rataplan",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "communicatie@rataplan.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "F8991BCE5C",
+    "ReferenceAtCustomer": "M4FCHAB4D6",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 42.98,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "A. Bernasco",
+    "Street": "Netwerkweg 33",
+    "Country": "NL",
+    "PostalCode": "1033MV",
+    "City": "Amsterdam",
+    "Contacts": [
+        {
+            "LastName": "A. Bernasco",
+            "FirstName": "Biker Outfit",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31618031250",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@bikeroutfit.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "80,0",
+    "Height": "50,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Paperwise White",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

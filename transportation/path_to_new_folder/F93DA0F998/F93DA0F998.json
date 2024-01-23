@@ -1,0 +1,36 @@
+{
+    "Description": "F93DA0F998",
+    "ReferenceAtCustomer": "MZ85DA1941",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 39.61,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Thomas",
+    "Street": "Kalverstraat 25",
+    "Country": "NL",
+    "PostalCode": "5461JL",
+    "City": "Veghel",
+    "Contacts": [
+        {
+            "LastName": "Thomas",
+            "FirstName": "Tom",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31641917168",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "tom@bouwstudio-deux.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "30,0",
+    "Shape": "Oval",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

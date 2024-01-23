@@ -1,0 +1,36 @@
+{
+    "Description": "F859E963D9",
+    "ReferenceAtCustomer": "MGAF8C893E",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.9,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Maes",
+    "Street": "Europark-Zuid 1",
+    "Country": "BE",
+    "PostalCode": "9100",
+    "City": "Sint-Niklaas",
+    "Contacts": [
+        {
+            "LastName": "Maes",
+            "FirstName": "Yoni",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "0473696046",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "yoni.maes@garage-mertens.be",
+            "Function": ""
+        }
+    ],
+    "Width": "25,0",
+    "Height": "25,0",
+    "Shape": "Square",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

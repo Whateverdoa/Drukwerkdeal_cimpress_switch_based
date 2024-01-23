@@ -1,0 +1,36 @@
+{
+    "Description": "F2BAD86CE6",
+    "ReferenceAtCustomer": "MD5413DFH7",
+    "Delivery": "2023-12-15",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 40.1,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Vriens",
+    "Street": "Raadhuisplein 30B",
+    "Country": "NL",
+    "PostalCode": "5683 EA",
+    "City": "Best",
+    "Contacts": [
+        {
+            "LastName": "Vriens",
+            "FirstName": "Brian",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31630385073",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@debankvanbest.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "60,0",
+    "Height": "60,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

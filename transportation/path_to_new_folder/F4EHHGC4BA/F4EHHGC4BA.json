@@ -1,0 +1,36 @@
+{
+    "Description": "F4EHHGC4BA",
+    "ReferenceAtCustomer": "MB58ED2953",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 103.53,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Hakvoort",
+    "Street": "De Hofstee 1",
+    "Country": "NL",
+    "PostalCode": "8321 HG",
+    "City": "Urk",
+    "Contacts": [
+        {
+            "LastName": "Hakvoort",
+            "FirstName": "Jan",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31527683454",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@bakkerijmaxima.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Square",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

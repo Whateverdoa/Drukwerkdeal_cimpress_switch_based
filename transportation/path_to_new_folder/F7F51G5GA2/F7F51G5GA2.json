@@ -1,0 +1,36 @@
+{
+    "Description": "F7F51G5GA2",
+    "ReferenceAtCustomer": "MA1F0356C3",
+    "Delivery": "2023-12-19",
+    "OrderQuantity": 750,
+    "Quantity_per_roll": "",
+    "UnitPrice": 77.09,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Marketing",
+    "Street": "Varenschut 25",
+    "Country": "NL",
+    "PostalCode": "5705DK",
+    "City": "Helmond",
+    "Contacts": [
+        {
+            "LastName": "Marketing",
+            "FirstName": "t.a.v.",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31493689383",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "factuur@multibier.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "148,0",
+    "Height": "105,0",
+    "Shape": "Rectangle",
+    "Winding": 3,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper Silver Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

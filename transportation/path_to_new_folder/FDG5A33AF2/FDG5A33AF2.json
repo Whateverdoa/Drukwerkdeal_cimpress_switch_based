@@ -1,0 +1,36 @@
+{
+    "Description": "FDG5A33AF2",
+    "ReferenceAtCustomer": "MC06CG2F84",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.9,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Ozdemir",
+    "Street": "Rue G\u00c3\u00a9n\u00c3\u00a9ral Eenens  44",
+    "Country": "BE",
+    "PostalCode": "1030",
+    "City": "Bruxelles",
+    "Contacts": [
+        {
+            "LastName": "Ozdemir",
+            "FirstName": "Erdal",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+32479564414",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "edaprinting@gmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

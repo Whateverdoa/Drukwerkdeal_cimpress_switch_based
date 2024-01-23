@@ -1,0 +1,36 @@
+{
+    "Description": "FH6GHC70D4",
+    "ReferenceAtCustomer": "M72053738H",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.22,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Naessens",
+    "Street": "Steenweg op Gierle 320",
+    "Country": "BE",
+    "PostalCode": "2300",
+    "City": "Turnhout",
+    "Contacts": [
+        {
+            "LastName": "Naessens",
+            "FirstName": "Sarah",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31 88 88 55 222",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "sarah.naessens@prosafco.be",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

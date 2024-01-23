@@ -1,0 +1,36 @@
+{
+    "Description": "F4G6HH546F",
+    "ReferenceAtCustomer": "MB9C9H9G60",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 750,
+    "Quantity_per_roll": "",
+    "UnitPrice": 41.69,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Berkhout-Slegt",
+    "Street": "Rijksstraatweg 41",
+    "Country": "NL",
+    "PostalCode": "2988BA",
+    "City": "Ridderkerk",
+    "Contacts": [
+        {
+            "LastName": "Berkhout-Slegt",
+            "FirstName": "Vanessa",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31641239751",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "vanessa.slegt@me.com",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "50,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

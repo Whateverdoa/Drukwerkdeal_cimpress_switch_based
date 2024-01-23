@@ -1,0 +1,36 @@
+{
+    "Description": "F0667G78H9",
+    "ReferenceAtCustomer": "MDE4CEEA75",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 3000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 52.84,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Heijkoop",
+    "Street": "Hoofdstraat 177-B",
+    "Country": "NL",
+    "PostalCode": "3781AE",
+    "City": "Voorthuizen",
+    "Contacts": [
+        {
+            "LastName": "Heijkoop",
+            "FirstName": "Willeke",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31681005496",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "willeke@deappelboomvoorthuizen.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "50,0",
+    "Shape": "Oval",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

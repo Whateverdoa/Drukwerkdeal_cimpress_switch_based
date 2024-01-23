@@ -1,0 +1,36 @@
+{
+    "Description": "F81232A42H",
+    "ReferenceAtCustomer": "M3976H0C14",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.9,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Verheijen",
+    "Street": "Broekhoekweg 34b",
+    "Country": "NL",
+    "PostalCode": "7582PT",
+    "City": "Losser",
+    "Contacts": [
+        {
+            "LastName": "Verheijen",
+            "FirstName": "Robin",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31610015769",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "robin.verheijen@cito-diagnostics.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "25,0",
+    "Height": "50,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

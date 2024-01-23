@@ -1,0 +1,36 @@
+{
+    "Description": "FG66EB1154",
+    "ReferenceAtCustomer": "M908G1EF4H",
+    "Delivery": "2023-12-22",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.8,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Notterdaeme",
+    "Street": "Gentsesteenweg 41-1",
+    "Country": "BE",
+    "PostalCode": "9800",
+    "City": "Deinze",
+    "Contacts": [
+        {
+            "LastName": "Notterdaeme",
+            "FirstName": "Ingrid",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+3256738362",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "marketingcolora@boss.be",
+            "Function": ""
+        }
+    ],
+    "Width": "50,0",
+    "Height": "25,0",
+    "Shape": "Rectangle",
+    "Winding": 4,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

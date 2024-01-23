@@ -1,0 +1,36 @@
+{
+    "Description": "FBBCEF2855",
+    "ReferenceAtCustomer": "MC8CFB4D9B",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 51.56,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Paula van Kempen",
+    "Street": "Frederik Hendriklaan 217",
+    "Country": "NL",
+    "PostalCode": "2582CB",
+    "City": "'s-Gravenhage",
+    "Contacts": [
+        {
+            "LastName": "Paula van Kempen",
+            "FirstName": "Paagman Den Haag",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31703383883",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "finadmin@paagman.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

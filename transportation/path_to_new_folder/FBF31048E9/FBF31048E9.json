@@ -1,0 +1,36 @@
+{
+    "Description": "FBF31048E9",
+    "ReferenceAtCustomer": "MHAD943G19",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.82,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Strietman",
+    "Street": "Oudeweg 6",
+    "Country": "NL",
+    "PostalCode": "2031 CC",
+    "City": "Haarlem",
+    "Contacts": [
+        {
+            "LastName": "Strietman",
+            "FirstName": "Marieke",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31610028941",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "inkoopfacturen@ns.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "80,0",
+    "Height": "50,0",
+    "Shape": "Rectangle",
+    "Winding": 4,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) Clear Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

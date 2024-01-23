@@ -1,0 +1,36 @@
+{
+    "Description": "FFEE3497F2",
+    "ReferenceAtCustomer": "MBG5270602",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 100,
+    "Quantity_per_roll": "",
+    "UnitPrice": 35.34,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Tynke van den Heuvel",
+    "Street": "Rumpsterweg 31",
+    "Country": "NL",
+    "PostalCode": "3981 AK",
+    "City": "Bunnik",
+    "Contacts": [
+        {
+            "LastName": "Tynke van den Heuvel",
+            "FirstName": "Studio Wae",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31621205032",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "Tynke@studiomae.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "105,0",
+    "Height": "74,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Matt",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

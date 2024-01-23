@@ -1,0 +1,36 @@
+{
+    "Description": "F6F4397EGF",
+    "ReferenceAtCustomer": "MH9A64240D",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 10000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 81.72,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Jonkman",
+    "Street": "Weerdhuisweg 1",
+    "Country": "NL",
+    "PostalCode": "8152 AW",
+    "City": "Lemelerveld",
+    "Contacts": [
+        {
+            "LastName": "Jonkman",
+            "FirstName": "Jonne",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31572371273",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "reclame@wagenmanswonen.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "70,0",
+    "Height": "15,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

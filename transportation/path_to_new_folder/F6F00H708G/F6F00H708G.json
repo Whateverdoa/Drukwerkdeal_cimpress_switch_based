@@ -1,0 +1,36 @@
+{
+    "Description": "F6F00H708G",
+    "ReferenceAtCustomer": "M5E3F2B0AB",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 750,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.85,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van Riel",
+    "Street": "Dorpsstraat 50",
+    "Country": "NL",
+    "PostalCode": "1182JE",
+    "City": "Amstelveen",
+    "Contacts": [
+        {
+            "LastName": "van Riel",
+            "FirstName": "Sem",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31683704075",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "pers@museumjan.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "20,0",
+    "Height": "20,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Eco Adhesive Natureflex White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

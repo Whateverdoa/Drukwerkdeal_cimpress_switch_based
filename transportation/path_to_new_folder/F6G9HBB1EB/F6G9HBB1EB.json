@@ -1,0 +1,36 @@
+{
+    "Description": "F6G9HBB1EB",
+    "ReferenceAtCustomer": "MG12730D90",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 38.57,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Terwisscha van Scheltinga",
+    "Street": "Gedempte Singelgracht 2",
+    "Country": "NL",
+    "PostalCode": "1441AP",
+    "City": "Purmerend",
+    "Contacts": [
+        {
+            "LastName": "Terwisscha van Scheltinga",
+            "FirstName": "Harry",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31299820992",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "harrytvs@hotmail.com",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "30,0",
+    "Shape": "Rectangle",
+    "Winding": 1,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

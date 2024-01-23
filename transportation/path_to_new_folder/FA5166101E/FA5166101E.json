@@ -1,0 +1,36 @@
+{
+    "Description": "FA5166101E",
+    "ReferenceAtCustomer": "MZF901H24H",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 500,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.51,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Heidi Arts",
+    "Street": "Rendierhei 23",
+    "Country": "NL",
+    "PostalCode": "5685HS",
+    "City": "Best",
+    "Contacts": [
+        {
+            "LastName": "Heidi Arts",
+            "FirstName": "Scissors Hairdesign B.V.",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+499374271",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@scissors-hairdesign.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "62,0",
+    "Height": "33,0",
+    "Shape": "Rectangle",
+    "Winding": 2,
+    "Radius": 2,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

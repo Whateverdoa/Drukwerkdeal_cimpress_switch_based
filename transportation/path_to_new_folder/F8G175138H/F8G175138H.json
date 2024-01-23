@@ -1,0 +1,36 @@
+{
+    "Description": "F8G175138H",
+    "ReferenceAtCustomer": "M3AB01BB54",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 250,
+    "Quantity_per_roll": "",
+    "UnitPrice": 34.27,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "De Beer",
+    "Street": "IJzerweg 2",
+    "Country": "NL",
+    "PostalCode": "5342LX",
+    "City": "Oss",
+    "Contacts": [
+        {
+            "LastName": "De Beer",
+            "FirstName": "Lu",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31625399370",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "llewelyn@hijshelden.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Polyethylene (pe) White Matte",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

@@ -1,0 +1,36 @@
+{
+    "Description": "FC1FH667H5",
+    "ReferenceAtCustomer": "M0A6A22AGB",
+    "Delivery": "2023-12-20",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 47.11,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Marjolijn Kerste",
+    "Street": "Mgr. Diepenstraat 43",
+    "Country": "NL",
+    "PostalCode": "5212BV",
+    "City": "'s-Hertogenbosch",
+    "Contacts": [
+        {
+            "LastName": "Marjolijn Kerste",
+            "FirstName": "'t oetelhuukske",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31620278465",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "mmpkerste@home.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "40,0",
+    "Height": "40,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

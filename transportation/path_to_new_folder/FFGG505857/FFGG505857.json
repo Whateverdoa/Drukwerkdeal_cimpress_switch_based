@@ -1,0 +1,36 @@
+{
+    "Description": "FFGG505857",
+    "ReferenceAtCustomer": "MG4566C925",
+    "Delivery": "2023-12-21",
+    "OrderQuantity": 2000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 50.85,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "Serge Philippi",
+    "Street": "De Koningswinkel 10",
+    "Country": "NL",
+    "PostalCode": "6269BR",
+    "City": "Margraten",
+    "Contacts": [
+        {
+            "LastName": "Serge Philippi",
+            "FirstName": "Studio Philippi",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31433212933",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "contact@studiophilippi.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "45,0",
+    "Height": "45,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Removable Adhesive Glue",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}

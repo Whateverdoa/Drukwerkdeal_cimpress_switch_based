@@ -1,0 +1,36 @@
+{
+    "Description": "FFE395BH5E",
+    "ReferenceAtCustomer": "M5A8DAAC24",
+    "Delivery": "2023-12-27",
+    "OrderQuantity": 1000,
+    "Quantity_per_roll": "",
+    "UnitPrice": 37.18,
+    "SupplierId": "Drukwerkdeal",
+    "Name": "van Gijssel",
+    "Street": "De Connemara 13",
+    "Country": "NL",
+    "PostalCode": "8252HJ",
+    "City": "Dronten",
+    "Contacts": [
+        {
+            "LastName": "van Gijssel",
+            "FirstName": "Esther",
+            "Initials": "",
+            "Title": "",
+            "PhoneNumber": "+31642804256",
+            "FaxNumber": "",
+            "GSMNumber": "",
+            "Email": "info@studiowindtkracht.nl",
+            "Function": ""
+        }
+    ],
+    "Width": "30,0",
+    "Height": "30,0",
+    "Shape": "Circle",
+    "Winding": 2,
+    "Radius": 0,
+    "Premium_White": "N",
+    "Substrate": "Adhesive Label Paper White Gloss",
+    "Adhesive": "Permanent",
+    "LineComment1": "deze informatie komt via Switch uit de xml van drukwerkdeal."
+}
