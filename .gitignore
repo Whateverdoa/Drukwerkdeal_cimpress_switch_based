@@ -1,2 +1,5 @@
-'.env' 
-'/transportation' 
+.env
+transportation\path_to_new_folder
+transportation\path_to_new_folder 
+transportation\zipped_files 
+.idea

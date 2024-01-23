@@ -7,7 +7,8 @@ from pathlib import Path
 from Paden.paden import original_folder, new_location
 from transportation.extract_pdf_and_remap_xml import find_first_subfolder, extract_pdf_files, \
     read_xml_and_convert_to_json, zip_folder
-rd /S /Q .git
+
+
 
 # Setup logging
 logging.basicConfig(filename='process_log.log', level=logging.INFO,
